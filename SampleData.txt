@@ -1,0 +1,49 @@
+Create a Room:
+Data 1:
+{
+    "numberOfSeats": 50,
+    "amenities": ["Projector", "Whiteboard", "Wi-Fi"],
+    "pricePerHour": 100
+}
+
+Data 2:
+{
+    "numberOfSeats": 30,
+    "amenities": ["TV", "Conference Phone", "Wi-Fi"],
+    "pricePerHour": 75
+}
+
+Data 3:
+{
+    "numberOfSeats": 100,
+    "amenities": ["Stage", "Sound System", "Lighting"],
+    "pricePerHour": 200
+}
+
+Book a Room:
+Data 1:
+{
+    "customerName": "Alice Smith",
+    "date": "2024-06-01",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "roomId": 1
+}
+
+Data 2:
+{
+    "customerName": "Bob Johnson",
+    "date": "2024-06-01",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "roomId": 2
+}
+
+Data 3:
+{
+    "customerName": "Charlie Davis",
+    "date": "2024-06-02",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "roomId": 3
+}

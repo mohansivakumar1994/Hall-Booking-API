@@ -1,0 +1,26 @@
+
+Render URL: https://guvi-nodejs-day-2-task.onrender.com
+
+
+API Endpoints:
+1.Creat a Room
+Method - POST
+API Endpoint: https://guvi-nodejs-day-2-task.onrender.com/rooms
+
+2.Book a Room
+Method - POST
+API Endpoint: https://guvi-nodejs-day-2-task.onrender.com/bookings
+
+3.List All Rooms with Booked Data
+Method - GET
+API Endpoint: https://guvi-nodejs-day-2-task.onrender.com/rooms
+
+4.List All Customers with Booked Data
+Method - GET
+API Endpoint: https://guvi-nodejs-day-2-task.onrender.com/customers
+
+5.List How Many Times a Customer Has Booked the Room
+Method - GET
+API Endpoint: https://guvi-nodejs-day-2-task.onrender.com/customer/Bob%20Johnson
+
+
